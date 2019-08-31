@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.nicez.net/"/>
-  <updated>2019-08-31T12:16:57.486Z</updated>
+  <updated>2019-08-31T14:36:07.279Z</updated>
   <id>https://www.nicez.net/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://www.nicez.net/2019/08/31/helloworld/"/>
     <id>https://www.nicez.net/2019/08/31/helloworld/</id>
     <published>2019-08-31T05:14:00.000Z</published>
-    <updated>2019-08-31T12:16:57.486Z</updated>
+    <updated>2019-08-31T14:36:07.279Z</updated>
     
     <content type="html"><![CDATA[<figure class="highlight pascal"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">program</span> Project1;</span><br><span class="line"></span><br><span class="line"><span class="meta">&#123;$APPTYPE CONSOLE&#125;</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">uses</span></span><br><span class="line">  SysUtils;</span><br><span class="line"></span><br><span class="line"><span class="keyword">begin</span></span><br><span class="line">  <span class="keyword">try</span></span><br><span class="line">    Writeln(<span class="string">'Hello World !'</span>);</span><br><span class="line">  <span class="keyword">except</span></span><br><span class="line">    <span class="keyword">on</span> E: Exception <span class="keyword">do</span></span><br><span class="line">      Writeln(E.ClassName, <span class="string">': '</span>, E.<span class="keyword">Message</span>);</span><br><span class="line">  <span class="keyword">end</span>;</span><br><span class="line"><span class="keyword">end</span>.</span><br></pre></td></tr></table></figure>]]></content>
     
@@ -34,6 +34,8 @@
     
     </summary>
     
+    
+      <category term="Delphi" scheme="https://www.nicez.net/tags/Delphi/"/>
     
   </entry>
   

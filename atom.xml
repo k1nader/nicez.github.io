@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.nicez.net/"/>
-  <updated>2019-08-31T15:14:41.358Z</updated>
+  <updated>2019-08-31T15:16:26.355Z</updated>
   <id>https://www.nicez.net/</id>
   
   <author>
@@ -15,6 +15,56 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Perl 代码高亮测试</title>
+    <link href="https://www.nicez.net/2019/08/31/perl-high-light-test/"/>
+    <id>https://www.nicez.net/2019/08/31/perl-high-light-test/</id>
+    <published>2019-08-31T15:16:00.000Z</published>
+    <updated>2019-08-31T15:16:26.355Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="highlight perl"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">#!/usr/bin/perl</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">print</span> <span class="string">"Hello World!\n"</span>;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;figure class=&quot;highlight perl&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=
+      
+    
+    </summary>
+    
+      <category term="演示" scheme="https://www.nicez.net/categories/%E6%BC%94%E7%A4%BA/"/>
+    
+    
+      <category term="Perl" scheme="https://www.nicez.net/tags/Perl/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PHP 代码高亮测试</title>
+    <link href="https://www.nicez.net/2019/08/31/php-high-light-test/"/>
+    <id>https://www.nicez.net/2019/08/31/php-high-light-test/</id>
+    <published>2019-08-31T15:16:00.000Z</published>
+    <updated>2019-08-31T15:18:43.813Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="highlight php"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">&lt;?php</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">print</span> <span class="string">"Hello World!"</span></span><br><span class="line"></span><br><span class="line"><span class="meta">?&gt;</span></span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;figure class=&quot;highlight php&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;
+      
+    
+    </summary>
+    
+      <category term="演示" scheme="https://www.nicez.net/categories/%E6%BC%94%E7%A4%BA/"/>
+    
+    
+      <category term="PHP" scheme="https://www.nicez.net/tags/PHP/"/>
+    
+  </entry>
   
   <entry>
     <title>Pawn 代码高亮测试</title>
